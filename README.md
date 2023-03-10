@@ -73,10 +73,31 @@ To get to the Control Panel you can either search for it in the search bar next 
 
 
 <p>
+<img src="https://i.imgur.com/Q2fnyKC.png" height="80%" width="80%" alt="VM Home Screen"/>
+</p>
+<p>
 <img src="https://i.imgur.com/pujBt2t.png" height="80%" width="80%" alt="VM Home Screen"/>
 </p>
 <p>
-Next, we'll have to download and install a PHP Manager. You can simply Google "php manager download" for the link to do so. After that's done, open and install it.
+Next, we'll have to download and install a PHP Manager. You can simply Google "php manager download" for the link to do so. After that's done, double click your file and install it.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/eEF5lSc.png" height="80%" width="80%" alt="VM Home Screen"/>
+</p>
+<p>
+Next, we'll download and install a Rewrite Module. To my understanding, it essentially allows an IIS administrator to change URLS to a URL that users can remember easier, and search engines can find faster. Find a downloadable link, then download and install.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/1jtkDba.png" height="80%" width="80%" alt="VM Home Screen"/>
+</p>
+<p>
+After hitting "Yes" from your Remote Desktop app, you will be connected to your VM! This is what the home screen should look like.
 </p>
 <br />
 
