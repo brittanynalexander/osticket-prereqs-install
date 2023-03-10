@@ -67,7 +67,25 @@ After hitting "Yes" from your Remote Desktop app, you will be connected to your 
 <p>
 The first prerequisite to install will be Internet Information Services (IIS), which is a Microsoft web server that will allow the VM to serve websites. OsTicket runs off of a website so you'll have to install and configure IIS to actually run osTicket. 
   
-To get to the Control panel you can either search for it in the search bar next to the start menu, or you can right click the start menu, select "Run", then type "control panel". Select "Programs", then under "Promgrams and Features" select "Turn Windows Features On or Off". Turn IIS on by clicking the box next to it. Expand IIS, expand "World Wide Web Services", expand "Application Development Features", and select "CGI".
+To get to the Control Panel you can either search for it in the search bar next to the start menu, or you can right click the start menu, select "Run", then type "control panel". Select "Programs", then under "Promgrams and Features" select "Turn Windows Features On or Off". Turn IIS on by selecting the box next to it. Expand "Internet Information Services", expand "World Wide Web Services", expand "Application Development Features", and select "CGI", then select "Ok". We need to install CGI with IIS because CGI let's us install a PHP Manager. PHP is a programming language which osTicket runs off of, so we need to install a web server (ISS) with PHP.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/pujBt2t.png" height="80%" width="80%" alt="VM Home Screen"/>
+</p>
+<p>
+Next, we'll have to download and install a PHP Manager. You can simply Google "php manager download" for the link to do so. After that's done, open and install it.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/1jtkDba.png" height="80%" width="80%" alt="VM Home Screen"/>
+</p>
+<p>
+After hitting "Yes" from your Remote Desktop app, you will be connected to your VM! This is what the home screen should look like.
 </p>
 <br />
 
