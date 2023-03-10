@@ -44,7 +44,7 @@ To connect to the VM you'll have to utilize Remote Desktop Connection on Windows
   
 By the way, you can find the Public IP Address to your VM within the Essentials section of your VM. I also spoke about locating the Essentials in my <a href="https://github.com/brittanynalexander/Azure-VMs">Azure-VMs</a> tutorial. To recap, if the Virtual Machines icon is not on your home screen, you can simply search "virtual machines" in the search bar, click on it then click on your VM. I've named mine VM-osTicket. The Public IP Address will be at the very top on the right-hand side. 
   
-After you've hit "Connect" on your Remote Desktop app, you'll have to enter the credentials you created when creating your VM then hit "Ok". You'll then be asked if you want to continue despite certificate errors, hit "Yes". (The certificate will be the name of your VM and since the certificate isn't valid, Remote Desktop cannot verify it.)
+After you've hit "Connect" on your Remote Desktop app, you'll have to enter the credentials you created when creating your VM then hit "Ok" or "Continue". You'll then be asked if you want to continue despite certificate errors, hit "Yes". (The certificate will be the name of your VM and since the certificate isn't valid, Remote Desktop cannot verify it.)
 </p>
 <br />
 
