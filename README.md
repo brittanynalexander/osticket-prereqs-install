@@ -26,6 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+
 <p>
 <img src="https://i.imgur.com/hVsLVb1.png" height="80%" width="80%" alt="Creating VM"/>
 </p>
@@ -35,14 +36,32 @@ Before doing anything pertaining to osTicket, you'll have to create a Resource G
 <br />
 
 
-
 <p>
-<img src="https://i.imgur.com/Zfgn1o0.png" height="80%" width="80%" alt="VM Connection"/>
+<img src="https://i.imgur.com/yktJPTL.png" height="80%" width="80%" alt="VM Connection"/>
 </p>
 <p>
-To connect to the VM you'll have to utilize Remote Desktop Connection on Windows or Microsoft Remote Desktop if you're on a Mac. Simply open the app and paste your VM's Public IP Address into the "Computer" section and hit "Connect". By the way, you can find the Public IP Address to your VM within the Essentials section of your VM. I also spoke about locating the Essentials in my <a href="https://github.com/brittanynalexander/Azure-VMs">Azure-VMs</a> tutorial. To recap, if the Virtual Machines icon is not on your home screen, you can simply search "virtual machines" in the search bar, click on it then click on your VM. I've named mine VM-osticket. The Public IP Address will be at the very top on the right-hand side. After you've hit "Connect" on your Remote Desktop app, you'll have to enter the credentials you created when creating your VM then hit "Ok". You'll then be asked if you want to continue despite certificate errors, hit "Yes". (The certificate will be the name of your VM and since the certificate isn't valid, Remote Desktop cannot verify it.)
+To connect to the VM you'll have to utilize Remote Desktop Connection on Windows or Microsoft Remote Desktop if you're on a Mac. Simply open the app and paste your VM's Public IP Address into the "Computer" section and hit "Connect". By the way, you can find the Public IP Address to your VM within the Essentials section of your VM. I also spoke about locating the Essentials in my <a href="https://github.com/brittanynalexander/Azure-VMs">Azure-VMs</a> tutorial. To recap, if the Virtual Machines icon is not on your home screen, you can simply search "virtual machines" in the search bar, click on it then click on your VM. I've named mine VM-osTicket. The Public IP Address will be at the very top on the right-hand side. After you've hit "Connect" on your Remote Desktop app, you'll have to enter the credentials you created when creating your VM then hit "Ok". You'll then be asked if you want to continue despite certificate errors, hit "Yes". (The certificate will be the name of your VM and since the certificate isn't valid, Remote Desktop cannot verify it.)
 </p>
 <br />
+
+
+<p>
+<img src="https://i.imgur.com/1jtkDba.png" height="80%" width="80%" alt="VM Home Screen"/>
+</p>
+<p>
+After hitting "Yes" from your Remote Desktop app, you will be connected to your VM! This is what the home screen should look like.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/1jtkDba.png" height="80%" width="80%" alt="VM Home Screen"/>
+</p>
+<p>
+After hitting "Yes" from your Remote Desktop app, you will be connected to your VM! This is what the home screen should look like.
+</p>
+<br />
+
 
 <p>
 <img src="https://i.imgur.com/1jtkDba.png" height="80%" width="80%" alt="VM Home Screen"/>
