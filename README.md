@@ -94,19 +94,26 @@ Next, we'll download and install a Rewrite Module. To my understanding, it essen
 
 
 <p>
-<img src="https://i.imgur.com/1jtkDba.png" height="80%" width="80%" alt="VM Home Screen"/>
+<img src="https://i.imgur.com/gXWu1LE.png" height="80%" width="80%" alt="VM Home Screen"/>
 </p>
 <p>
-After hitting "Yes" from your Remote Desktop app, you will be connected to your VM! This is what the home screen should look like.
+<img src="https://i.imgur.com/TxEcyVe.png" height="80%" width="80%" alt="VM Home Screen"/>
+</p>
+<p>
+Now we'll have to create a PHP directory (C:\PHP) on the local hard drive. Open your File Explorer app. Most desktops come with it pinned to the taskbar; it looks like a folder. You can always search "file explorer" in the search bar next to the start menu if the app isn't pinned. 
+  
+In the File Explorer, select "This PC" on the left hand side. The local hard drive will show as "Local Disk (C:)" on your desktop by the way, but for this tutorial in the VM, it will show as "Windows (C:)" if you chose Windows as your Operating System (OS). Double click on the local hard drive. Right click on an empty space, scroll down to "Run", then select "Folder". You can decide what to name it but I'll be naming the folder "PHP".
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/1jtkDba.png" height="80%" width="80%" alt="VM Home Screen"/>
+<img src="https://i.imgur.com/ZhOKImJ.png" height="80%" width="80%" alt="VM Home Screen"/>
 </p>
 <p>
-After hitting "Yes" from your Remote Desktop app, you will be connected to your VM! This is what the home screen should look like.
+Prior, we downloaded a PHP Manager. Now we'll download PHP, (a programming language that osTicket runs off of), and unzip those contents into the folder we just made, (C:\PHP). Unzipping is extracting contents in a file.
+  
+Google "PHP download", find a link, then proceed to do so. Once downloaded, it will be in the Downloads section in your File Explorer. Right click on the PHP file and select "Extract All". Paste the location of the folder to where you want to extract the file, which is "C:\PHP". Alternatively, you can select "Browse", double click on "This PC", double click on "Windows (C:)", select "PHP", click "Select Folder", then click "Extract". Now your PHP folder will have all the contents from the PHP file.
 </p>
 <br />
 
