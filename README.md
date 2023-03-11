@@ -130,10 +130,10 @@ The next installation will be a C++ redistributable which PHP requires. Google a
 
 
 <p>
-<img src="https://i.imgur.com/1jtkDba.png" height="80%" width="80%" alt="VM Home Screen"/>
+<img src="https://i.imgur.com/HITzYIC.png" height="80%" width="80%" alt="VM Home Screen"/>
 </p>
 <p>
-After hitting "Yes" from your Remote Desktop app, you will be connected to your VM! This is what the home screen should look like.
+MySQL Server will be the next installation needed. You know what to do, find the link then download and install it.
 </p>
 <br />
 
