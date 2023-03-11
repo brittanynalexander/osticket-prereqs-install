@@ -121,6 +121,33 @@ Google "PHP download", find a link, then proceed to do so. Once downloaded, it w
 
 
 <p>
+<img src="https://i.imgur.com/TSYC2Y4.png" height="80%" width="80%" alt="VM Home Screen"/>
+</p>
+<p>
+The next installation will be a C++ redistributable which PHP requires. Google a downloadable link then download and install.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/1jtkDba.png" height="80%" width="80%" alt="VM Home Screen"/>
+</p>
+<p>
+After hitting "Yes" from your Remote Desktop app, you will be connected to your VM! This is what the home screen should look like.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/1jtkDba.png" height="80%" width="80%" alt="VM Home Screen"/>
+</p>
+<p>
+After hitting "Yes" from your Remote Desktop app, you will be connected to your VM! This is what the home screen should look like.
+</p>
+<br />
+
+
+<p>
 <img src="https://i.imgur.com/1jtkDba.png" height="80%" width="80%" alt="VM Home Screen"/>
 </p>
 <p>
