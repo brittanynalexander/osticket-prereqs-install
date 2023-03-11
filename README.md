@@ -139,10 +139,10 @@ MySQL Server will be the next installation needed. You know what to do, find the
 
 
 <p>
-<img src="https://i.imgur.com/1jtkDba.png" height="80%" width="80%" alt="VM Home Screen"/>
+<img src="https://i.imgur.com/KAyBMtL.png" height="80%" width="80%" alt="VM Home Screen"/>
 </p>
 <p>
-After hitting "Yes" from your Remote Desktop app, you will be connected to your VM! This is what the home screen should look like.
+Next, we're going to open Internet Information Services (IIS) as an administrator and do some configuration. Click the start menu and type "iis". Hover over Internet Information services, right click, and select "Run as Administrator". Alternativelty, you can select that option on the right.
 </p>
 <br />
 
